@@ -1,0 +1,3 @@
+[submodule "gptzip"]
+	path = gptzip
+	url = https://github.com/kylehkhsu/gptzip.git
